@@ -781,7 +781,7 @@ h4,
 @media (min-width: 576px) {
     .offer-card-position {
         position: relative;
-        left: -110px;
+        left: -25px;
         top: 70px;
         margin-bottom: 70px
     }
@@ -1990,7 +1990,7 @@ button.button {
 
 .footer-area {
     padding: 120px 0px 120px;
-    background: #fff8f7
+    background: #ce2027
 }
 
 @media (max-width: 991px) {
